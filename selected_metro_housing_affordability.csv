@@ -1,0 +1,30 @@
+metro_area,median_household_income,median_gross_rent,metro_code,monthly_income,rent_to_income_ratio,rent_to_income_percent,affordability_level
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",73481,1770,33100,6123.416666666667,0.28905431335991616,28.905431335991615,Relatively Affordable
+"Orlando-Kissimmee-Sanford, FL Metro Area",75611,1659,36740,6300.916666666667,0.2632950232109085,26.329502321090846,Relatively Affordable
+"Los Angeles-Long Beach-Anaheim, CA Metro Area",93525,1987,31080,7793.75,0.2549478748997594,25.49478748997594,Relatively Affordable
+"San Diego-Chula Vista-Carlsbad, CA Metro Area",102285,2154,41740,8523.75,0.2527056753189617,25.27056753189617,Relatively Affordable
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",71254,1497,45300,5937.833333333333,0.25211216212423165,25.211216212423164,Relatively Affordable
+"Riverside-San Bernardino-Ontario, CA Metro Area",86031,1756,40140,7169.25,0.24493496530320466,24.493496530320467,Relatively Affordable
+"Phoenix-Mesa-Chandler, AZ Metro Area",84703,1581,38060,7058.583333333333,0.22398262163087496,22.398262163087495,Relatively Affordable
+"Sacramento-Roseville-Folsom, CA Metro Area",93986,1729,40900,7832.166666666667,0.2207562828506373,22.07562828506373,Relatively Affordable
+"New York-Newark-Jersey City, NY-NJ Metro Area",97334,1780,35620,8111.166666666667,0.21945055170854993,21.945055170854992,Relatively Affordable
+"San Francisco-Oakland-Fremont, CA Metro Area",133780,2426,41860,11148.333333333334,0.21761100313948273,21.761100313948273,Relatively Affordable
+"Atlanta-Sandy Springs-Roswell, GA Metro Area",86338,1563,12060,7194.833333333333,0.2172392225902847,21.72392225902847,Relatively Affordable
+"Denver-Aurora-Centennial, CO Metro Area",102339,1805,19740,8528.25,0.21164951777914578,21.164951777914577,Relatively Affordable
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",94573,1654,38900,7881.083333333333,0.20986962452285537,20.98696245228554,Relatively Affordable
+"San Antonio-New Braunfels, TX Metro Area",74297,1299,41700,6191.416666666667,0.20980658707619418,20.98065870761942,Relatively Affordable
+"Dallas-Fort Worth-Arlington, TX Metro Area",87155,1509,19100,7262.916666666667,0.20776777006482702,20.776777006482703,Relatively Affordable
+"Boston-Cambridge-Newton, MA-NH Metro Area",112484,1940,14460,9373.666666666666,0.206962768038121,20.6962768038121,Relatively Affordable
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",80201,1377,16740,6683.416666666667,0.20603234373636237,20.603234373636237,Relatively Affordable
+"Seattle-Tacoma-Bellevue, WA Metro Area",112594,1932,42660,9382.833333333334,0.20590795246638363,20.590795246638365,Relatively Affordable
+"Houston-Pasadena-The Woodlands, TX Metro Area",80458,1378,26420,6704.833333333333,0.20552337865718762,20.552337865718762,Relatively Affordable
+"Austin-Round Rock-San Marcos, TX Metro Area",97638,1646,12420,8136.5,0.2022982855035949,20.229828550359493,Relatively Affordable
+"Baltimore-Columbia-Towson, MD Metro Area",97300,1562,12580,8108.333333333333,0.19264131551901337,19.264131551901336,Relatively Affordable
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",123896,1975,47900,10324.666666666666,0.1912894685865565,19.12894685865565,Relatively Affordable
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",89273,1413,37980,7439.416666666667,0.18993424663672107,18.993424663672105,Relatively Affordable
+"Chicago-Naperville-Elgin, IL-IN Metro Area",88850,1378,16980,7404.166666666667,0.1861114237478897,18.61114237478897,Relatively Affordable
+"Detroit-Warren-Dearborn, MI Metro Area",75123,1162,19820,6260.25,0.185615590431692,18.5615590431692,Relatively Affordable
+"Madison, WI Metro Area",86827,1300,31540,7235.583333333333,0.17966761491241204,17.966761491241204,Relatively Affordable
+"Milwaukee-Waukesha, WI Metro Area",76404,1105,33340,6367.0,0.17355112297785455,17.355112297785453,Relatively Affordable
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",98180,1396,33460,8181.666666666667,0.1706253819515176,17.06253819515176,Relatively Affordable
+"St. Louis, MO-IL Metro Area",78225,1073,41180,6518.75,0.1646021093000959,16.460210930009588,Relatively Affordable
