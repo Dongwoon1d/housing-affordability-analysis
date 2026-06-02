@@ -27,6 +27,23 @@ Main variables used:
 
 The analysis uses Metro Area-level data from the Census API.
 
+## Project Structure
+
+```text
+housing-affordability-analysis/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│   └── Housing-affordability-analysis.ipynb
+├── data/
+│   └── selected_metro_housing_affordability.csv
+└── visuals/
+    ├── rent_to_income_top10.png
+    ├── median_gross_rent_top10.png
+    └── income_vs_rent_scatter.png
+```
+
 ## Methodology
 
 The project calculates the following metrics:
@@ -37,6 +54,26 @@ Rent-to-Income Ratio = Median Gross Rent / Monthly Income
 ```
 
 The rent-to-income ratio is used to compare rental housing burden across Metro Areas.
+
+## Visualizations
+
+### Rent-to-Income Ratio Top 10
+
+This chart shows which selected Metro Areas have the highest rent burden when rent is compared to local household income.
+
+![Rent-to-Income Ratio Top 10](visuals/rent_to_income_top10.png)
+
+### Median Gross Rent Top 10
+
+This chart shows which selected Metro Areas have the highest median gross rent.
+
+![Median Gross Rent Top 10](visuals/median_gross_rent_top10.png)
+
+### Median Household Income vs Median Gross Rent
+
+This scatter plot compares income and rent directly across the selected Metro Areas.
+
+![Income vs Rent Scatter Plot](visuals/income_vs_rent_scatter.png)
 
 ## Key Findings
 
@@ -77,6 +114,39 @@ Future versions of this project could include:
 - Map-based visualization
 
 - A focused analysis on Wisconsin or Madison
+
+## How to Run
+
+1. Clone this repository.
+
+```bash
+git clone https://github.com/Dongwoon1d/housing-affordability-analysis.git
+cd housing-affordability-analysis
+```
+
+2. Install the required packages.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook in Jupyter Notebook or JupyterLab.
+
+```text
+notebooks/Housing-affordability-analysis.ipynb
+```
+
+4. Replace the placeholder Census API key with your own Census API key before running the notebook.
+
+```python
+# API key removed for security.
+# Replace this value with your own Census API key before running the notebook.
+API_KEY = "YOUR_CENSUS_API_KEY"
+```
+
+5. Run all cells in the notebook.
+
+The notebook will collect ACS data, calculate rent-to-income ratios, generate visualizations, and save the cleaned dataset into the `data/` folder.
 
 ## Tools Used
 
